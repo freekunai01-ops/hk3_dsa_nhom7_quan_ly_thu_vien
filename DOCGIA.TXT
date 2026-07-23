@@ -1,0 +1,73 @@
+10
+4200
+Pham Quoc
+Dat
+Nam
+1
+0
+1800
+Nguyen Thi Phuong Thao Xuan
+Quynh
+Nu
+1
+0
+1200
+Bui Khanh
+Huy
+Nam
+1
+0
+2300
+Tran Thi
+Bich
+Nu
+1
+2
+8935003-001
+10 7 2026
+0 0 0
+0
+8935002-001
+20 6 2026
+27 6 2026
+1
+3100
+Do Vuong Bao
+An
+Nam
+1
+0
+7200
+Vu Ngoc
+Giang
+Nu
+1
+0
+5500
+Nguyen Van
+An
+Nam
+1
+1
+8935001-001
+1 7 2026
+0 0 0
+0
+6400
+Hoang Thai
+Em
+Nam
+1
+0
+8100
+Le Minh
+Chau
+Nam
+0
+0
+9000
+Dang Thanh Ngoc Minh Chau Anh
+Khoa
+Nam
+1
+0

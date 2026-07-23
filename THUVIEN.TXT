@@ -1,0 +1,76 @@
+6
+8935001
+Cau truc du lieu va giai thuat
+350
+Nguyen Xuan Huy
+2020
+CNTT
+4
+2
+8935001-001
+1
+Ke A1
+8935001-002
+0
+Ke A1
+8935002
+Dac nhan tam
+320
+Dale Carnegie
+2018
+Ky nang
+7
+2
+8935002-001
+0
+Ke B2
+8935002-002
+2
+Kho
+8935003
+Lap trinh C can ban
+280
+Pham Van At
+2019
+CNTT
+4
+1
+8935003-001
+1
+Ke A2
+8935004
+Toan cao cap
+400
+Nguyen Dinh Tri
+2021
+Giao trinh
+0
+1
+8935004-001
+0
+Ke C1
+8935005
+Ky thuat lap trinh huong doi tuong nang cao voi C++ hien dai
+520
+Nguyen Thanh Tung va Le Van Long
+2022
+CNTT
+0
+2
+8935005-001
+0
+Ke A3
+8935005-002
+0
+Ke A3
+8935006
+Tri tue nhan tao va ung dung thuc te trong doi song hien dai
+480
+Tran Minh Triet
+2023
+CNTT
+0
+1
+8935006-001
+0
+Ke A4
